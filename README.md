@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elijah Eromosele (6godpro)
+# 👋 Hi, I'm Elijah Eromosele
 
 ![Radiance Reach Foundation](https://img.shields.io/badge/Proud%20Project-Radiance%20Reach%20Foundation-blue)
 ![Manchester United Fan](https://img.shields.io/badge/Football-Manchester%20United-red)
