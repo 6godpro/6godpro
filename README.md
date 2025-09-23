@@ -6,8 +6,7 @@
 ## 🚀 Frontend Developer | Code Explorer
 
 **Bio:**  
-Finding the silliest reason to code.  
-I’m passionate about building smooth, interactive user experiences using modern web technologies.
+Finding the silliest reason to code. I’m passionate about building smooth, interactive user experiences using modern web technologies.
 
 ---
 
