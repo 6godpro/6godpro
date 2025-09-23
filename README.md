@@ -34,7 +34,7 @@ Showcasing my skills, style, and growth.
 ### 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/elijah-eromosele-146b5923b)
-- 📧 ehiseromz@gmail.com
+- [My Email](ehiseromz@gmail.com)
 
 ---
 
