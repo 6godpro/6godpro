@@ -22,7 +22,7 @@ I’m passionate about building smooth, interactive user experiences using moder
 ### 🌟 Featured Projects
 
 #### [Radiance Reach Foundation Website](https://github.com/6godpro/Radiance-Reach-Foundation)
-My proudest work helping a non-profit shine online.
+My proudest work is helping a non-profit shine online.
 
 #### [React Projects](https://github.com/6godpro/React-Projects)
 A collection of interactive web apps and experiments.
